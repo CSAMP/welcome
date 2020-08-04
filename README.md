@@ -8,3 +8,6 @@ The Collaborative Science and Adaptive Management Program (CSAMP) is a voluntary
 
 Learn more about CSAMP at [Bay Delta Live](https://baydeltalive.com/CSAMP/csamp%20main/csamp-main)
 
+## Delta Structured Decision Making (SDM)
+
+Track CSAMP's Delta SDM [here](https://github.com/CSAMP/structured-decision-making)
